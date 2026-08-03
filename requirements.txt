@@ -1,1 +1,10 @@
 
+# Requirements for the bootcamp
+
+python>=3.10
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+pytest
