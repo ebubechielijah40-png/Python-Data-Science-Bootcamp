@@ -4,7 +4,7 @@
 
 NumPy (Numerical Python) is the foundation almost every other data science
 library in Python is built on top of. Pandas uses it internally. Matplotlib
-plots NumPy arrays. Scikit-learn expects NumPy arrays as input. Before you
+plots NumPy arrays(An array means an orderly arrangement, a large group or collection of things, or a specific structure in math and computer science). Scikit-learn expects NumPy arrays as input. Before you
 can use any of those tools well, you need to understand what a NumPy array
 actually is and why it exists.
 
